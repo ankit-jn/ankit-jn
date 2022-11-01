@@ -1,9 +1,10 @@
 ### Hi, Welcome to the `ARJ-Stack` techspace!! 👋
+![Plot](./images/front.jpg)
 
 #### Who we are? 
 ---
 We are a non profit entity, endeavour to leverage on the latest technologies to deliver the learning material through digital resources. We strive to keep repositories in this account more organized and documented so that you can read it easily, and accurately progress your learning through the solutions we are designing. 
- 
+
 #### Core Values
 ---
 We are more formalized and always thrive to align ourself with our core values to achieve high success and to follow the standards. The standards, the core values that we follows are <b>PASSION</b>, <b>INTEGRITY</b> and <b>INNOVATION</b>
