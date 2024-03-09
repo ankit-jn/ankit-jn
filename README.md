@@ -6,7 +6,7 @@
 <img src="https://github.com/ankit-jn/ankit-jn/blob/main/images/ankit.jpg" width="200" height="200">
 
 - AWS/Azure/HashiCorp Certified Cloud Professional 
-- Highly technical and analytical, possessing 16 years of IT implementation experience
+- Highly technical and analytical, possessing 17+ years of IT implementation experience
 - Demonstrate architectural best practices applied across a breadth of technologies to solve organizational problems, articulate views/roadmaps for future development, and understand the interaction between infrastructure, operations, and development
 - Give insights to work with engineering and support teams to convey partner and customer needs and feedback as input to technology roadmaps and recommend new capabilities that would simplify adoption and drive greater value from use of AWS cloud services.
 - Strong customer orientation and a professional approach with the ability to interact with all levels within the organization.
